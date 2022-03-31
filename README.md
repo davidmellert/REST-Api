@@ -1,6 +1,5 @@
 # REST-Api
-Rest api 
-
+Nimmt HTTP Requests entgegen und verwaltet eine Datenbank (MongoDB)
 Zunächst den MongoDB Server starten mit "mongod" in der Konsole
 
 Anschließend MongoDb Compass öffnen
